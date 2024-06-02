@@ -1,8 +1,8 @@
-# APM-Demo0
+# Demo0
 
 Starter files with no NgRx added.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.2
 
 ## Development server
 
